@@ -7,14 +7,14 @@
   <br />
   <strong>Language:</strong> English &nbsp;|&nbsp; <strong>Platforms:</strong> Windows, Linux  
   <br />
-  <strong>Open Source & Free</strong> — No malware, no backdoors, fully transparent and frequently updated  
+  <strong>Open Source & Free</strong> — No malware, no backdoors, fully transparent and updated somewhat frequently
 </p>
 
 ---
 
 ## 🛠️ Overview
 
-Multi-Tools is a powerful suite packed with utilities spanning Network Scanning, OSINT, Utility tools, Virus Builder, Roblox & Discord tools, and much more.
+Multi-Tools is a powerful suite packed with utilities spanning Network Scanning, OSINT, Utility tools, Virus Builder, Roblox & Discord tools, and more.
 
 ---
 
