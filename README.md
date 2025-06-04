@@ -61,38 +61,32 @@ Multi-Tools is a powerful suite packed with utilities spanning Network Scanning,
     ├── User & ID Info
 ```
 
-⚙️ Requirements
-Windows
-Python installed with PATH option enabled
+---
 
-Windows 10, 11, or newer
+## ⚙️ Requirements
 
-Linux
-Latest Python version installed
+### Windows
+- [Python](https://www.python.org/downloads/) installed with PATH option enabled  
+- Windows 10, 11, or newer  
 
-Recent Linux distribution
+### Linux
+- Latest Python version installed  
+- Recent Linux distribution  
 
-📥 Installation
-Download & Setup
-Download the latest release from here
+---
 
-Extract the ZIP file
+## 📥 Installation
 
-Run Setup.py to start
+### Download & Setup
 
-Or via Git
-bash
-Copy
-Edit
+- Download the latest release from [here](https://github.com/zcnxs-official/Venom-Tools/archive/refs/tags/)  
+- Extract the ZIP file  
+- Run `Setup.py` to start  
+
+### Or via Git
+
+```bash
 git clone https://github.com/zcnxs-official/Venom-Tools.git
 cd Venom-Tools
 git pull
 python Setup.py
-⚠️ Disclaimer
-Educational purposes only. This project is intended for personal use with good intentions.
-
-Use at your own risk — you accept full responsibility for consequences.
-
-Scripts under Program/FileDetectedByAntivirus may trigger antivirus alerts but contain no malware or backdoors.
-
-<p align="center"> Made with ❤️ by <a href="https://github.com/zcnxs-official" target="_blank" rel="noopener noreferrer">Zcnxs</a> </p> ```
